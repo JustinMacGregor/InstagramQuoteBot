@@ -1,0 +1,19 @@
+2020-10-13 19:28:10,988 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-10-13 19:28:10,988 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\justi\anaconda3\lib\site-packages\instabot\bot\bot.py
+2020-10-13 19:28:10,989 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-10-13 19:28:10,989 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-10-13 19:28:10,989 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\justi\Desktop\Inspirational Bot/config/motivationalstoic_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=919428c0-f1d8-4d63-a171-b4a768f51a2f
+- uuid=acb193e9-7b68-4f64-9509-8e043282386a
+- client_session_id=2eb1e43e-ae61-4712-adda-b458c04b3b49
+- device_id=android-59481940b0007a16
+2020-10-13 19:28:10,990 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-10-13 19:28:12,375 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-10-13 19:28:12,669 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-10-13 19:28:12,670 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'motivationalstoic'!
+2020-10-13 19:28:12,671 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\justi\Desktop\Inspirational Bot/config/motivationalstoic.checkpoint
+2020-10-13 19:28:32,830 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-10-13 19:28:32,994 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-10-13 19:28:32,999 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\justi\Desktop\Inspirational Bot/config/motivationalstoic.checkpoint
+2020-10-13 19:28:33,000 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37

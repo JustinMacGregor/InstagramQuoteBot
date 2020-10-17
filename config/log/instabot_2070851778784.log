@@ -1,0 +1,26 @@
+2020-10-17 15:27:02,793 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-10-17 15:27:02,794 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\justi\anaconda3\lib\site-packages\instabot\bot\bot.py
+2020-10-17 15:27:02,807 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-10-17 15:27:02,808 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-10-17 15:27:02,808 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\justi\Desktop\Inspirational Bot/config/motivationalstoic_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=919428c0-f1d8-4d63-a171-b4a768f51a2f
+- uuid=acb193e9-7b68-4f64-9509-8e043282386a
+- client_session_id=cd6df094-4779-47a1-a04e-0aa96f8c7a50
+- device_id=android-59481940b0007a16
+2020-10-17 15:27:02,809 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-10-17 15:27:04,656 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-10-17 15:27:05,061 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-10-17 15:27:05,545 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-10-17 15:27:05,719 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-10-17 15:27:06,295 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-10-17 15:27:06,651 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-10-17 15:27:07,255 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-10-17 15:27:07,422 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-10-17 15:27:08,938 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-10-17 15:27:08,941 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'motivationalstoic'!
+2020-10-17 15:27:08,942 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\justi\Desktop\Inspirational Bot/config/motivationalstoic.checkpoint
+2020-10-17 15:27:30,042 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-10-17 15:27:30,251 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-10-17 15:27:30,263 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\justi\Desktop\Inspirational Bot/config/motivationalstoic.checkpoint
+2020-10-17 15:27:30,264 - instabot version: 0.117.0 (bot) - INFO - Total requests: 49
